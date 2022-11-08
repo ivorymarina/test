@@ -4,6 +4,3 @@
 
 # test
 
-print('Hello world')
-
-def object
